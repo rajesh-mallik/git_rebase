@@ -24,5 +24,7 @@ Commit - 10 M.10
 
 commit - 7 D.7
 
+commit - 8.1 by rajesh
+
  Resolve all conflicts manually, mark them as resolved with
 hint: "git add/rm <conflicted_files>"
